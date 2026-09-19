@@ -1,0 +1,6 @@
+{
+  "name": "Agência Prado Social - Sistema Interno",
+  "description": "Sistema interno de gestão comercial para controle de parceiros, leads, vendas e comissões da Agência Prado Social.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
